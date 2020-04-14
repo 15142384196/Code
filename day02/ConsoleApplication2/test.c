@@ -11,6 +11,11 @@ void get_p(char* p)
 
 }
 
+void get_p3()
+{
+	char a[] = "fdyadaydaudsad";
+}
+
 void get_p2( char**q)
 {
 	*q = 0xaabb;
@@ -27,6 +32,7 @@ int main(void)
 	char* q = NULL;
 	q = &b;
 	get_p2(&q);
+	get_p3();
 
 
 
