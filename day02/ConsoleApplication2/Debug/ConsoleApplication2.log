@@ -1,7 +1,2 @@
-﻿  test.c
-C:\Users\15142\Desktop\Github\day02\ConsoleApplication2\test.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
-C:\Users\15142\Desktop\Github\day02\ConsoleApplication2\test.c(21,13): warning C4047: “=”:“char *”与“int”的间接级别不同
-C:\Users\15142\Desktop\Github\day02\ConsoleApplication2\test.c(29,14): warning C4047: “=”:“char”与“int *”的间接级别不同
-C:\Users\15142\Desktop\Github\day02\ConsoleApplication2\test.c(30,15): warning C4047: “=”:“char *”与“int”的间接级别不同
-C:\Users\15142\Desktop\Github\day02\ConsoleApplication2\test.c(33,8): warning C4133: “=”: 从“int *”到“char *”的类型不兼容
-  ConsoleApplication2.vcxproj -> C:\Users\15142\Desktop\Github\day02\ConsoleApplication2\Debug\ConsoleApplication2.exe
+﻿  01.c
+  ConsoleApplication2.vcxproj -> C:\Users\15142\Desktop\Code\day02\ConsoleApplication2\Debug\ConsoleApplication2.exe

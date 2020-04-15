@@ -1,2 +1,4 @@
 C:\Users\15142\Desktop\Github\day02\ConsoleApplication2\Debug\ConsoleApplication2.exe
 C:\Users\15142\Desktop\Github\day02\ConsoleApplication2\Debug\ConsoleApplication2.pdb
+C:\Users\15142\Desktop\Code\day02\ConsoleApplication2\Debug\ConsoleApplication2.exe
+C:\Users\15142\Desktop\Code\day02\ConsoleApplication2\Debug\ConsoleApplication2.pdb
