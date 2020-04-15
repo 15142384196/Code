@@ -44,7 +44,7 @@ int main(void)
 	char dst[100];
 	my_strcpy(dst, src);
 	printf("%s", dst);
-
+	
 
 
 
