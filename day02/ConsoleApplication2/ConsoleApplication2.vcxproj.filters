@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01.c">
+    <ClCompile Include="..\04.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

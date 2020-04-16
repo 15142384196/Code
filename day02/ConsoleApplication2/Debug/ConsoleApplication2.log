@@ -1,2 +1,6 @@
-﻿  02.c
+﻿  04.c
+C:\Users\15142\Desktop\Code\day02\04.c(73,12): warning C4133: “函数”: 从“int *”到“char *”的类型不兼容
+C:\Users\15142\Desktop\Code\day02\04.c(73,26): warning C4020: “strcpy”: 实参太多
+C:\Users\15142\Desktop\Code\day02\04.c(92,20): warning C4047: “函数”:“int *”与“char (*)[100]”的间接级别不同
+C:\Users\15142\Desktop\Code\day02\04.c(92,20): warning C4024: “fun2”: 形参和实参 2 的类型不同
   ConsoleApplication2.vcxproj -> C:\Users\15142\Desktop\Code\day02\ConsoleApplication2\Debug\ConsoleApplication2.exe
